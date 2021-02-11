@@ -1,0 +1,12 @@
+X
+OC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Clases\Usuario.csutf-8W
+NC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\FormPrincipal.csutf-8b
+WC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\FormPrincipal.Designer.csutf-8]
+TC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Negocio\ClassPrueba.csutf-8a
+XC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Procedimientos\SPHelper.csutf-8Q
+HC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Program.csutf-8a
+XC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\AssemblyInfo.csutf-8c
+XC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\test_dbDataSet.Designer.csutf-8i
+^C:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\Resources.Designer.csutf-8h
+]C:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\Properties\Settings.Designer.csutf-8…
+zC:\Users\ravig\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8
